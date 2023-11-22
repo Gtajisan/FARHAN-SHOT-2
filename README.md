@@ -83,6 +83,8 @@ termux-setup-storage
  ```
 ## [Termux](https://termux.com/)
 
+### tutorial Video 
+https://imgur.com/gallery/8ygCXZl
 
 # Usage
 ```
