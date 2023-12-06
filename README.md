@@ -80,7 +80,7 @@ termux-setup-storage
  ```
 #### Running
  ```
- sudo python FARHAN-Shot2/FARHAN-Shot2.py -i wlan0 -K
+ sudo python FARHAN-SHOT-2/FARHAN-Shot2.py -i wlan0 -K
  ```
 ## [Termux](https://termux.com/)
 
